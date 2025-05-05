@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744893434 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\a64_q4_closest_subset\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+

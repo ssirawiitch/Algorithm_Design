@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1744822459 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\ex04e2_fknapsack\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<tuple>
+	<algorithm>
+	<iomanip>
+

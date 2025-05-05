@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745424625 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\a67_q4a_strange_house\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+	<sstream>
+

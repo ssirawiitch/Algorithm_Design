@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743048990 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\a65_q3a_in_the_middle\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+	<algorithm>
+

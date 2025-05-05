@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746109221 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\a67_q3a_equidistance\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<tuple>
+	<cmath>
+

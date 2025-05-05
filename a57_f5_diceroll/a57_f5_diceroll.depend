@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745318697 source:c:\users\siraw\onedrive\à´Ê¡ì·çÍ»\c++\grader_algo\grader\a57_f5_diceroll\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<climits>
+	<algorithm>
+
